@@ -11,12 +11,5 @@ export class GroceriesDataService {
     console.log('Utilizing GroceriesDataService');
   }
 
-  // getItems() {
-  //   return this.items;
-  // }
-
-  // addItem(item) {
-  //   this.items.push(item);
-  // }
 
 }
